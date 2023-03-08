@@ -1,0 +1,4 @@
+#Thu Oct 06 14:35:25 EAT 2022
+base.0=C\:\\Users\\jotha\\Desktop\\mlkit\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+renamed.0=classes.dex
+path.0=classes.dex
